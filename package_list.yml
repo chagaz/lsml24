@@ -8,10 +8,12 @@ dependencies:
   - joblib
   - jupyterlab
   - notebook
-  - rise
   - numpy
   - scipy
   - spyder
   - matplotlib
+  - memory_profiler
+  - scikit-learn==1.4.0
+pip:
+  - rise
   - nbtutor
-  - scikit-learn>=1.0.2
