@@ -20,8 +20,8 @@ Work on notebook `5_nlp_embedding_rnn.ipynb`.
 Work on notebook `4_stochastic_gradient_descent.ipynb`.
 
 ## Day 5: Deep reinforcement learing
-Instructions inside `3_deep_reinforcement_learning.pdf`. The notebook is [here](https://githubtocolab.com/telejesus2/tprl-lsml-2022/blob/main/tprl_lsml_2022.ipynb).
-
+* [Part 1: tabular RL](https://github.com/chagaz/lsml24/blob/main/part1_tabular_RL.ipynb)
+* [Part 2: deep RL](https://github.com/chagaz/lsml24/blob/main/part2_deep_RL.ipynb)
 
 ## Setup
 To run the notebooks, you will need Python, [Jupyter](https://jupyter.org/) (either JupyterLab or Jupyter Notebook), and number of Python librairies. The easiest way to install of this is to use [conda](https://docs.conda.io/en/latest/) and set up an environment specific to this course using the file `package_list.yml`. To this end, you can either:
